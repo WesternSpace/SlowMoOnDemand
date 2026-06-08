@@ -1,3 +1,5 @@
-# RDR2ASIScriptTemplate
+# SlowMoOnDemand
+Source code of the mod found on [Nexus Mods](https://www.nexusmods.com/reddeadredemption2/mods/1621).
 
-A template for helping to make a ASI script of RDR2 Scripthook.
+## Development Discontinued 
+This mod is not being maintained anymore. More info can be found [here](https://www.nexusmods.com/reddeadredemption2/images/12348).
